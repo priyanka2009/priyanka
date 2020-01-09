@@ -1,0 +1,2 @@
+ to find git version 
+git --version
